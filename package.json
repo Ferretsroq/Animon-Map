@@ -1,0 +1,19 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "tracking": "^1.1.3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@types/tracking": "^1.1.30",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}

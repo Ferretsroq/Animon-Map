@@ -1,0 +1,62 @@
+{
+    "WATER": 
+    {
+        "color": "rgb(0, 0, 255)"
+    },
+    "BEACH": 
+    {
+        "color": "rgb(102, 161, 255)"
+    },
+    "SCORCHED": 
+    {
+        "color": "rgb(255, 158, 102)"
+    },
+    "BARE": 
+    {
+        "color": "rgb(255, 181, 138)"
+    },
+    "TUNDRA": 
+    {
+        "color": "rgb(207, 228, 230)"
+    },
+    "SNOW": 
+    {
+        "color": "rgb(255, 255, 255)"
+    },
+    "TEMPERATE_DESERT": 
+    {
+        "color": "rgb(229, 230, 207)"
+    },
+    "SHRUBLAND": 
+    {
+        "color": "rgb(212, 230, 207)"
+    },
+    "TAIGA": 
+    {
+        "color": "rgb(180, 222, 166)"
+    },
+    "GRASSLAND": 
+    {
+        "color": "rgb(136, 207, 112)"
+    },
+    "TEMPERATE_DECIDUOUS_FOREST": 
+    {
+        "color": "rgb(90, 201, 52)"
+    },
+    "TEMPERATE_RAIN_FOREST": 
+    {
+        "color": "rgb(54, 196, 6)"
+    },
+    "SUBTROPICAL_DESERT": 
+    {
+        "color": "rgb(221, 224, 162)"
+    },
+    "TROPICAL_SEASONAL_FOREST": 
+    {
+        "color": "rgb(90, 201, 52)"
+    },
+    "TROPICAL_RAIN_FOREST": 
+    {
+        "color": "rgb(54, 196, 6)"
+    }
+}
